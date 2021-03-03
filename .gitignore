@@ -1,0 +1,7 @@
+*.sw*
+*.iml
+*.gradle
+*.idea
+
+# directory for IntelliJ builds
+/out/
